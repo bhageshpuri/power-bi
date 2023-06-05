@@ -32,7 +32,7 @@ Give the subnet a name (You cannot use “gatewaysubnet” as name, as that is r
 
 **Note: You will need the Azure [Network Contributor]( https://docs.microsoft.com/en-us/azure/role-based-access-control/built-in-roles#network-contributor) role) to do below step.**
 
-**Please register "Microsoft.PowerPlatform" as a resource provider for this subscription to continue creating a virtual network data gateway. Learn more.
+**Please register "Microsoft.PowerPlatform" as a resource provider for this subscription to continue creating a virtual network data gateway. [Learn more](https://learn.microsoft.com/en-us/data-integration/vnet/create-data-gateways#step-1-register-microsoftpowerplatform-as-a-resource-provider).
 
 Sign in to [Power Platform admin center]( https://admin.powerplatform.microsoft.com/), click on “Data(Preview)” on left navigation pane, select “Virtual network data gateways” and click “+New”.
 
